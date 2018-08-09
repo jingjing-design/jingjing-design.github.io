@@ -1,1 +1,11 @@
 /* your styles go here */
+body {
+    font-family: 'Junee';
+}
+@font-face {
+    font-family: 'Junee';
+    src: local('Junee Regular'), local('Junee-Regular'), url(/css/fonts/junee-regular.woff) format('woff');
+}
+/* * {
+    
+} */
